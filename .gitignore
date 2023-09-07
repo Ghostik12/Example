@@ -1,1 +1,8 @@
 main.cpp.bak
+*.vsidx
+/.vs/Repositories/v17/.wsuo
+/.vs/Repositories/v17/Browse.VC.db
+*.db-shm
+*.db-wal
+*.opendb
+/.vs/slnx.sqlite
