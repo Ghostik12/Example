@@ -1,2 +1,18 @@
 main.cpp.bak
+<<<<<<< HEAD
 .vs
+=======
+*.vsidx
+/.vs/Repositories/v17/.wsuo
+/.vs/Repositories/v17/Browse.VC.db
+*.db-wal
+.vs
+/.vs/Repositories/v17/Browse.VC.db
+*.vsidx
+*.db-wal
+/.vs/Repositories/v17/.wsuo
+/.vs/VSWorkspaceState.json
+/.vs/slnx.sqlite
+*.opendb
+*.db-shm
+>>>>>>> d97249a36494b1c2478b3b50bb08315aca490e5b
